@@ -1,16 +1,16 @@
-## Hi there 👋
+### Hi, I'm Christian 👋
 
-<!--
-**cbryant93/cbryant93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+QA Engineer / SDET with 8 years' experience, most recently at ASOS, working across test automation, data validation and system integrations on large-scale retail platforms.
 
-Here are some ideas to get you started:
+I focus on building quality in early rather than testing at the end, and I'm especially drawn to data-heavy testing and using AI to make quality work faster and smarter.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**What I work with**
+- 🧪 **Data & ETL testing** — source-to-target validation, transformation logic, reconciliation
+- 🗄️ **SQL** — data validation, integrity checks, reconciliation across systems
+- 🔗 **Integration & contract testing** — validating how services and systems talk to each other
+- ⚙️ **CI/CD** — automated tests and quality gates (Azure DevOps)
+- 🤖 **AI-assisted testing** — built AI-driven tooling to help teams generate and maintain tests
+- 🌐 **Automation** — Selenium & Java background, currently building in Playwright, TypeScript and REST API testing
+
+🌍 Dual UK / Colombian, based in Bogotá
+📫 [LinkedIn](https://linkedin.com/in/christian-bryant/)
